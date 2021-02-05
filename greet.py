@@ -4,7 +4,10 @@ def default():
     print('Hello there')
 
 def main():
-    default()
+    if sys.argv[1]== 'hi' :
+        default()
+    else :
+        print('Bot offline')
 
 if __name__ == '__main__':
     main()

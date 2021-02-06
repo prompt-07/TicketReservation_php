@@ -112,7 +112,7 @@
 				</tr>
 			</table>
 			<br>
-			<input type="submit" value="Search for Available Flights" name="Search" style="margin-top: 20px;margin-left:300px;">
+			<input type="submit" value="Search for Train" name="Search" style="margin-top: 20px;margin-left:300px;">
 		</form>
 		<!--Following data fields were empty!
 			...

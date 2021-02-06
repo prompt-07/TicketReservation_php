@@ -42,11 +42,11 @@
 		</div>
 		<form action="admin_view_booked_tickets_form_handler.php" method="post">
 			<fieldset style="margin: 50px;">
-			<legend><h2>VIEW LIST OF BOOKED TICKETS FOR A FLIGHT</h2></legend>
+			<legend><h2>VIEW LIST OF BOOKED TICKETS</h2></legend>
 			<div>
 			<table cellpadding="5">
 				<tr>
-					<td class="fix_table">Enter the Flight No.</td>
+					<td class="fix_table">Enter the Train No.</td>
 					<td class="fix_table">Enter the Departure Date</td>
 				</tr>
 				<tr>

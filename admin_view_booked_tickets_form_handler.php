@@ -41,7 +41,7 @@
 				<li><a href="logout_handler.php"><i class="fa fa-sign-out" aria-hidden="true"></i> Logout</a></li>
 			</ul>
 		</div>
-		<h2 style="margin-left: 300px;">LIST OF BOOKED TICKETS FOR THE FLIGHT</h2>
+		<h2 style="margin-left: 300px;">LIST OF BOOKED TICKETS</h2>
 		<?php
 			if(isset($_POST['Submit']))
 			{
